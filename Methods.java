@@ -9,7 +9,7 @@ public class Methods {
     Scanner scanner;
     public Methods(){
         scanner = new Scanner(System.in);
-        System.out.println("Введіть кількість змінних");
+        System.out.println("");
         n = scanner.nextInt();
         System.out.println("Введіть коефіцієнти цільової функції");
         function = new Double[n];
