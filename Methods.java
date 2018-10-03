@@ -1,5 +1,3 @@
-import com.sun.deploy.resources.Deployment_pt_BR;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.SimpleTimeZone;
