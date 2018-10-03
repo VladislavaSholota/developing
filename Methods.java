@@ -6,7 +6,7 @@ public class Methods {
     Integer n, m;
     Double [] function;
     Double [][] coefficient;
-    Scanner scanner;
+    Scanner scanner, scanners;
     public Methods(){
         scanner = new Scanner(System.in);
         System.out.println("");
